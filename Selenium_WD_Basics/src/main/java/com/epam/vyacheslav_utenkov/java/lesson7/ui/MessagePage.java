@@ -20,10 +20,10 @@ import com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest;
  */
 public class MessagePage extends AbstractPage{
 
-	@FindBy(id = "compose-send_tbl")
+	@FindBy(xpath = "//div[contains(@class, 'cke_wysiwyg_div')]")
 	private WebElement messageArea;
 
-	@FindBy(id = "compose-subj")
+	@FindBy(xpath = "//input[@name='subj']")
 	private WebElement subjectArea;
 
 	@FindBy(xpath = "//input[@name='to']/..")
@@ -38,20 +38,24 @@ public class MessagePage extends AbstractPage{
 	@FindBy(xpath = "//div[@class='b-statusline']/span[@class='b-statusline__content']")
 	private WebElement messageSended;
 	
-	@FindBy(id = "nb-6")
+	@FindBy(xpath = "//button[contains(@class, 'nb-button _nb-large-action-button _init')]")
 	private WebElement sendMessage;
 
 	@FindBy(xpath = "//span[@class='b-compose-message__actions__helper__date']")
 	private WebElement saveInDraft;
+	
+	@FindBy(css = ".ns-view-toolbar-button-compose-go")
+	private WebElement writeMessageButton;
 
-	@FindBy(xpath = "//a[@href ='#sent']")
+	@FindBy(xpath = "//a[@href='#sent']")
 	private WebElement sendedMessages;
 	
 	@FindBy(xpath = "//label[@class='b-messages-head__title']")
 	private WebElement messageHeadTitle;
 	
-	private static final long WAIT_MILISECOND = 1000;
 	private static final int WAIT_PERIOD = 15;
+
+	private static final long WAIT_MILISECOND = 1000;
 
 	public MessagePage(WebDriver driver) {
 		PageFactory.initElements(this.driver, this);
@@ -91,10 +95,8 @@ public class MessagePage extends AbstractPage{
 		
 		fluentWaitMethod(WAIT_PERIOD, sendMessage.isDisplayed());
 		new Actions(driver).click(sendMessage).build().perform();
-		fluentWaitMethod(WAIT_PERIOD, messageSended.isDisplayed());
-		new Actions(driver).click(sendedMessages).build().perform();
-		YandexMailTest.sleep(WAIT_MILISECOND);
-		
+		fluentWaitMethod(WAIT_PERIOD, writeMessageButton.isDisplayed());
+		new Actions(driver).click(writeMessageButton).build().perform();
 		return new SentboxPage();
 	}
 	

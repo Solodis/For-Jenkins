@@ -22,14 +22,14 @@ public class SentboxPage extends AbstractPage{
 	@FindBy(xpath = "//a[@class='b-link b-link_header b-link_header_mail b-link_current daria-action']")
 	private WebElement mainMenuButton;
 
-	private String xpathToIndexAddressee = "//div[contains(@class, 'block-messages-list-box')]//div[@style = '']//div[@class = 'b-messages b-messages_threaded']/div[%d]//span[@class='b-messages__from__text']";
-    private String xpathToIndexSubject = "//div[contains(@class, 'block-messages-list-box')]//div[@style = '']//div[@class = 'b-messages b-messages_threaded']/div[%d]//span[@class ='b-messages__subject']";
-    private String xpathToIndexLabel = "//div[contains(@class, 'block-messages-list-box')]//div[@style = '']//div[@class = 'b-messages b-messages_threaded']/div[%d]//input";
+	private String xpathToIndexAddressee = "//div[contains(@class, 'ns-view-messages-item-wrap')][%d]//span[@class='b-messages__from__text']";
+    private String xpathToIndexSubject = "//div[contains(@class, 'ns-view-messages-item-wrap')][%d]//span[@class ='b-messages__subject']";
+    private String xpathToIndexLabel = "//label[contains(@class, 'mail-MessageSnippet-Checkbox-Nb')][%d]";
 
-	@FindAll(@FindBy(xpath = "//div[contains(@class, 'block-messages-list-box')]//div[@style = '']//div[@class = 'b-messages b-messages_threaded']/div"))
+	@FindAll(@FindBy(xpath = "//div[contains(@class, 'ns-view-messages-item-wrap')]"))
 	private List<WebElement> allMessage;
 	
-	@FindBy(css = ".b-toolbar__item.b-toolbar__item_delete.js-toolbar-item-delete.daria-action")
+	@FindBy(css = ".ns-view-toolbar-button-delete.ns-view-id-309")
 	private WebElement deleteButton;
 
 	public SentboxPage() {

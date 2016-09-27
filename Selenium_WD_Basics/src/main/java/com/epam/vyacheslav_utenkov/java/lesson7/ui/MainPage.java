@@ -11,7 +11,7 @@ import org.openqa.selenium.support.PageFactory;
  */
 public class MainPage extends AbstractPage{
 	
-	@FindBy(css = ".b-ico.b-ico_compose")
+	@FindBy(css = ".ns-view-toolbar-button-compose-go")
 	private WebElement writeMessageButton;
 	
 	@FindBy(xpath = "//div[contains(@class, 'b-folders__nesting_closed')]")
