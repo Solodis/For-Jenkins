@@ -115,6 +115,7 @@ public class YandexMailTest extends BaseTest {
 		LOG.info("set message");
 		ScreenShot.make(driver);
 		sentboxPage = messagePage.sendMessage();
+		//some change
 		LOG.info("message page  is chanched to sentbox page");
 	}
 
