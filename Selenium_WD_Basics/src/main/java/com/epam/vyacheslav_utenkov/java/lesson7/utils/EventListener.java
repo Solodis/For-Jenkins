@@ -18,17 +18,13 @@ public class EventListener implements ITestListener {
 	public void makeScreenShot(ITestResult arg0, String message) {
 		Object obj = arg0;
 		if (obj == null) {
-			LOG.info("EventListener - makeScreenShot/if/return");
 			return;
 			
 		}
 		WebDriver driver = Driver.getDriver();
-		LOG.info("EventListener - makeScreenShot/if2");
 		if (driver == null) {
-			LOG.info("EventListener - makeScreenShot/if3/return2");
 			return;
 		}
-		LOG.info("EventListener - makeScreenShot/if2/makeScreenShot");
 		ScreenShot.make(driver, message);
 
 	}

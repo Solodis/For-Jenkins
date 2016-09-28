@@ -17,10 +17,10 @@ public class MainPage extends AbstractPage{
 	@FindBy(xpath = "//div[contains(@class, 'b-folders__nesting_closed')]")
 	private WebElement draftButton;
 	
-	@FindBy(xpath = "//span[contains(@class, 'header-user-name')]")
+	@FindBy(xpath = "//div[contains(@class, 'mail-User-Name')]")
 	private WebElement headerUserName;
 	
-	@FindBy(xpath = "//a[contains(@href, 'logout&uid=408933943')]")
+	@FindBy(xpath = "//a[contains(@href, 'action=logout')]")
 	private WebElement exitButton;
 
 	public MainPage() {

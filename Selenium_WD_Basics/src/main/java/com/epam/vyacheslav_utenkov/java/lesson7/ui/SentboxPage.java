@@ -9,8 +9,6 @@ import org.openqa.selenium.support.FindAll;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest;
-
 /**
  * Class describes "sent box messages" page
  * 
@@ -23,14 +21,16 @@ public class SentboxPage extends AbstractPage{
 	private WebElement mainMenuButton;
 
 	private String xpathToIndexAddressee = "//div[contains(@class, 'ns-view-messages-item-wrap')][%d]//span[@class='b-messages__from__text']";
-    private String xpathToIndexSubject = "//div[contains(@class, 'ns-view-messages-item-wrap')][%d]//span[@class ='b-messages__subject']";
-    private String xpathToIndexLabel = "//label[contains(@class, 'mail-MessageSnippet-Checkbox-Nb')][%d]";
+    private String cssToIndexSubject = ".mail-MessageSnippet-Item.mail-MessageSnippet-Item_subject>span";
+    private String xpathToIndexLabel = "//div[contains(@class, 'ns-view-messages-item-wrap')][%d]//label";
 
 	@FindAll(@FindBy(xpath = "//div[contains(@class, 'ns-view-messages-item-wrap')]"))
 	private List<WebElement> allMessage;
 	
-	@FindBy(css = ".ns-view-toolbar-button-delete.ns-view-id-309")
+	@FindBy(css = ".ns-view-toolbar-button-delete.js-toolbar-item")
 	private WebElement deleteButton;
+	
+	private static final long WAIT_MILISECONDS = 1000;
 
 	public SentboxPage() {
 		PageFactory.initElements(this.driver, this);
@@ -52,17 +52,20 @@ public class SentboxPage extends AbstractPage{
 	 * @param addressee
 	 * @param subject
 	 */
-	public void checkLabel(String addressee, String subject) {
+	public void markLabel(String addressee, String subject) {
 		for (int i = allMessage.size(); i > 0; i--) {
-			YandexMailTest.sleep(1000);
+			try {
+				Thread.sleep(WAIT_MILISECONDS);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
 			WebElement addresseeElement = driver.findElement(By.xpath(String.format(xpathToIndexAddressee, i)));
-			WebElement subjectElement = driver.findElement(By.xpath(String.format(xpathToIndexSubject, i)));
+			WebElement subjectElement = driver.findElement(By.cssSelector(String.format(cssToIndexSubject, i)));
 			if (addresseeElement.getText().contains(addressee) && subjectElement.getText().contains(subject)) {
 				clickLabel(i);
 			}
 		}
 	}
-	
 	/**
 	 * Function for marking message by index
 	 * 

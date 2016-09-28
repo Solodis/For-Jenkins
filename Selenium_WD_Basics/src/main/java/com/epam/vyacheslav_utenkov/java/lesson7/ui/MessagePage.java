@@ -10,8 +10,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.FluentWait;
-
-import com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest;
 /**
  * Class describes messages page
  * 
@@ -55,8 +53,6 @@ public class MessagePage extends AbstractPage{
 	
 	private static final int WAIT_PERIOD = 15;
 
-	private static final long WAIT_MILISECOND = 1000;
-
 	public MessagePage(WebDriver driver) {
 		PageFactory.initElements(this.driver, this);
 	}
@@ -91,12 +87,15 @@ public class MessagePage extends AbstractPage{
 	 * 
 	 * @return SentBoxPAge
 	 */
-	public SentboxPage sendMessage() {
+	public void sendMessage() {
 		
 		fluentWaitMethod(WAIT_PERIOD, sendMessage.isDisplayed());
 		new Actions(driver).click(sendMessage).build().perform();
-		fluentWaitMethod(WAIT_PERIOD, writeMessageButton.isDisplayed());
-		new Actions(driver).click(writeMessageButton).build().perform();
+	}
+	
+	public SentboxPage  goToSentBox(){
+		fluentWaitMethod(WAIT_PERIOD, sendedMessages.isDisplayed());
+		new Actions(driver).click(sendedMessages).build().perform();
 		return new SentboxPage();
 	}
 	

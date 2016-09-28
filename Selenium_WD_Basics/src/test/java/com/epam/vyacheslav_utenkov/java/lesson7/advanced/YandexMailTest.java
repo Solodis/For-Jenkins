@@ -114,8 +114,8 @@ public class YandexMailTest extends BaseTest {
 		messagePage.setMessage(message.getText());
 		LOG.info("set message");
 		ScreenShot.make(driver);
-		sentboxPage = messagePage.sendMessage();
-		//some change
+		messagePage.sendMessage();
+		messagePage.goToSentBox();
 		LOG.info("message page  is chanched to sentbox page");
 	}
 
@@ -123,20 +123,8 @@ public class YandexMailTest extends BaseTest {
 	public void deleteMessage(String data) {
 		String[] values = data.split(":");
 		LOG.info("Start check label");
-		sentboxPage.checkLabel(values[0], values[1]);
-	}
-
-	public static void sleep(long time) {
-		try {
-			Thread.sleep(time);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
-	}
-
-	@Test(dependsOnMethods = "deleteMessage")
-	public void getException() {
-		throw new RuntimeException();
+		sentboxPage = new SentboxPage();
+		sentboxPage.markLabel(values[0], values[1]);
 	}
 
 	@AfterTest
