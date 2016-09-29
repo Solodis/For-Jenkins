@@ -37,7 +37,7 @@ public class YandexMailTest extends BaseTest {
 	private LoginPage loginPage;
 	private MainPage mainPage;
 	private MessagePage messagePage;
-	private SentboxPage sentboxPage;
+	private SentboxPage sentboxPage = new SentboxPage();
 
 	static {
 		System.setProperty("org.uncommons.reportng.escape-output", "false");
