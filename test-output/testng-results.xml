@@ -17,13 +17,13 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=57: EventListener - onTestStart<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot8822973572734182862.png'>Avto screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot933707926507948956.png'>Avto screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=79: Start login<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=86: Set default URL<br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=83: Set URL from getMailURL<br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=92: account was initialized<br>]]>
@@ -35,7 +35,7 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot881475052936521844.png'>Success screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot5015816735331683789.png'>Success screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=54: Take data from file 'data.properties'<br>]]>
@@ -50,7 +50,7 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=57: EventListener - onTestStart<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7998208045290240091.png'>Avto screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot651899727218320129.png'>Avto screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=102: sendMessagesTest started<br>]]>
@@ -68,7 +68,7 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=115: set message<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot56791269513873950.png'>See screenshot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot4881743843700839105.png'>See screenshot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=119: message page  is chanched to sentbox page<br>]]>
@@ -77,13 +77,13 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot1854373399186989110.png'>Success screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7839150173235148088.png'>Success screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=57: EventListener - onTestStart<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot4894485176321106728.png'>Avto screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot8623053004820008102.png'>Avto screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=102: sendMessagesTest started<br>]]>
@@ -101,7 +101,7 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=115: set message<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot5165704555694368596.png'>See screenshot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot1585914387745258244.png'>See screenshot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=119: message page  is chanched to sentbox page<br>]]>
@@ -110,13 +110,13 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot2081148501492765332.png'>Success screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7111295730663373503.png'>Success screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=57: EventListener - onTestStart<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot6683712089549256398.png'>Avto screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7861710999206811438.png'>Avto screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=102: sendMessagesTest started<br>]]>
@@ -134,7 +134,7 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=115: set message<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot3095699808554794342.png'>See screenshot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot5944303138236668506.png'>See screenshot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=119: message page  is chanched to sentbox page<br>]]>
@@ -143,7 +143,7 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot6020192353172963599.png'>Success screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot869131573059759878.png'>Success screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=54: Take data from file 'data.properties'<br>]]>
@@ -158,7 +158,7 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=57: EventListener - onTestStart<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot16905315206707854.png'>Avto screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot3136039038585090469.png'>Avto screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=125: Start check label<br>]]>
@@ -167,13 +167,13 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot372683309302156253.png'>Success screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot8933170941783278086.png'>Success screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=57: EventListener - onTestStart<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot2566968263431973586.png'>Avto screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot812849341381203555.png'>Avto screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=125: Start check label<br>]]>
@@ -182,13 +182,13 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7931003764415270319.png'>Success screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7039602939985796110.png'>Success screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=57: EventListener - onTestStart<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot988580758819821055.png'>Avto screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot4749994102594688686.png'>Avto screen shot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=125: Start check label<br>]]>
@@ -197,10 +197,10 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot5050487785141708688.png'>Success screen shot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot6515952291624742379.png'>Success screen shot</a><br>]]>
     </line>
     <line>
-      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot3627156450817303336.png'>See screenshot</a><br>]]>
+      <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot9040825740541959758.png'>See screenshot</a><br>]]>
     </line>
     <line>
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=137: Browser was closed<br>]]>
@@ -209,12 +209,12 @@
       <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=138: Test was end <br>]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="35497" started-at="2016-09-28T11:11:43Z" finished-at="2016-09-28T11:12:19Z">
+  <suite name="Default suite" duration-ms="36068" started-at="2016-09-29T06:58:04Z" finished-at="2016-09-29T06:58:40Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="35497" started-at="2016-09-28T11:11:43Z" finished-at="2016-09-28T11:12:19Z">
+    <test name="Default test" duration-ms="36068" started-at="2016-09-29T06:58:04Z" finished-at="2016-09-29T06:58:40Z">
       <class name="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest">
-        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="startBrowser" is-config="true" duration-ms="19" started-at="2016-09-28T14:11:43Z" finished-at="2016-09-28T14:11:43Z">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="startBrowser" is-config="true" duration-ms="23" started-at="2016-09-29T09:58:04Z" finished-at="2016-09-29T09:58:04Z">
           <reporter-output>
             <line>
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=48: Testing started<br>]]>
@@ -224,7 +224,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- startBrowser -->
-        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="loginTest" duration-ms="6342" started-at="2016-09-28T14:11:43Z" data-provider="getLoginData" finished-at="2016-09-28T14:11:50Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="loginTest" duration-ms="4356" started-at="2016-09-29T09:58:04Z" data-provider="getLoginData" finished-at="2016-09-29T09:58:09Z">
           <params>
             <param index="0">
               <value>
@@ -237,7 +237,7 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=79: Start login<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=86: Set default URL<br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=83: Set URL from getMailURL<br>]]>
             </line>
             <line>
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=92: account was initialized<br>]]>
@@ -249,11 +249,11 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot881475052936521844.png'>Success screen shot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot5015816735331683789.png'>Success screen shot</a><br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="sendMessagesTest(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="sendMessagesTest" duration-ms="4360" started-at="2016-09-28T14:11:50Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.loginTest" finished-at="2016-09-28T14:11:55Z">
+        <test-method status="PASS" signature="sendMessagesTest(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="sendMessagesTest" duration-ms="4170" started-at="2016-09-29T09:58:11Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.loginTest" finished-at="2016-09-29T09:58:16Z">
           <params>
             <param index="0">
               <value>
@@ -278,7 +278,7 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=115: set message<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot56791269513873950.png'>See screenshot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot4881743843700839105.png'>See screenshot</a><br>]]>
             </line>
             <line>
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=119: message page  is chanched to sentbox page<br>]]>
@@ -287,11 +287,11 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot1854373399186989110.png'>Success screen shot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7839150173235148088.png'>Success screen shot</a><br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- sendMessagesTest -->
-        <test-method status="PASS" signature="sendMessagesTest(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="sendMessagesTest" duration-ms="4440" started-at="2016-09-28T14:11:55Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.loginTest" finished-at="2016-09-28T14:12:00Z">
+        <test-method status="PASS" signature="sendMessagesTest(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="sendMessagesTest" duration-ms="4058" started-at="2016-09-29T09:58:16Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.loginTest" finished-at="2016-09-29T09:58:20Z">
           <params>
             <param index="0">
               <value>
@@ -316,7 +316,7 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=115: set message<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot5165704555694368596.png'>See screenshot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot1585914387745258244.png'>See screenshot</a><br>]]>
             </line>
             <line>
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=119: message page  is chanched to sentbox page<br>]]>
@@ -325,11 +325,11 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot2081148501492765332.png'>Success screen shot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7111295730663373503.png'>Success screen shot</a><br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- sendMessagesTest -->
-        <test-method status="PASS" signature="sendMessagesTest(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="sendMessagesTest" duration-ms="4359" started-at="2016-09-28T14:12:00Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.loginTest" finished-at="2016-09-28T14:12:04Z">
+        <test-method status="PASS" signature="sendMessagesTest(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="sendMessagesTest" duration-ms="4760" started-at="2016-09-29T09:58:20Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.loginTest" finished-at="2016-09-29T09:58:25Z">
           <params>
             <param index="0">
               <value>
@@ -354,7 +354,7 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=115: set message<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot3095699808554794342.png'>See screenshot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot5944303138236668506.png'>See screenshot</a><br>]]>
             </line>
             <line>
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=119: message page  is chanched to sentbox page<br>]]>
@@ -363,11 +363,11 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot6020192353172963599.png'>Success screen shot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot869131573059759878.png'>Success screen shot</a><br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- sendMessagesTest -->
-        <test-method status="PASS" signature="deleteMessage(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="deleteMessage" duration-ms="3610" started-at="2016-09-28T14:12:04Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.sendMessagesTest" finished-at="2016-09-28T14:12:08Z">
+        <test-method status="PASS" signature="deleteMessage(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="deleteMessage" duration-ms="2396" started-at="2016-09-29T09:58:25Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.sendMessagesTest" finished-at="2016-09-29T09:58:28Z">
           <params>
             <param index="0">
               <value>
@@ -383,11 +383,11 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot372683309302156253.png'>Success screen shot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot8933170941783278086.png'>Success screen shot</a><br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- deleteMessage -->
-        <test-method status="PASS" signature="deleteMessage(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="deleteMessage" duration-ms="3522" started-at="2016-09-28T14:12:08Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.sendMessagesTest" finished-at="2016-09-28T14:12:12Z">
+        <test-method status="PASS" signature="deleteMessage(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="deleteMessage" duration-ms="3536" started-at="2016-09-29T09:58:28Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.sendMessagesTest" finished-at="2016-09-29T09:58:32Z">
           <params>
             <param index="0">
               <value>
@@ -403,11 +403,11 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7931003764415270319.png'>Success screen shot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot7039602939985796110.png'>Success screen shot</a><br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- deleteMessage -->
-        <test-method status="PASS" signature="deleteMessage(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="deleteMessage" duration-ms="3642" started-at="2016-09-28T14:12:12Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.sendMessagesTest" finished-at="2016-09-28T14:12:16Z">
+        <test-method status="PASS" signature="deleteMessage(java.lang.String)[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="deleteMessage" duration-ms="3577" started-at="2016-09-29T09:58:32Z" data-provider="getMessageData" depends-on-methods="com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest.sendMessagesTest" finished-at="2016-09-29T09:58:35Z">
           <params>
             <param index="0">
               <value>
@@ -423,14 +423,14 @@
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.EventListener(1)=62: EventListener - onTestSuccess<br>]]>
             </line>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot5050487785141708688.png'>Success screen shot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot6515952291624742379.png'>Success screen shot</a><br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- deleteMessage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@352ff4da]" name="closeBrowser" is-config="true" duration-ms="2967" started-at="2016-09-28T14:12:16Z" finished-at="2016-09-28T14:12:19Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest@6714695f]" name="closeBrowser" is-config="true" duration-ms="4654" started-at="2016-09-29T09:58:36Z" finished-at="2016-09-29T09:58:40Z">
           <reporter-output>
             <line>
-              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot3627156450817303336.png'>See screenshot</a><br>]]>
+              <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.utils.ScreenShot(1)=25: <a href='screenshots/screenshot9040825740541959758.png'>See screenshot</a><br>]]>
             </line>
             <line>
               <![CDATA[INFO  com.epam.vyacheslav_utenkov.java.lesson7.advanced.YandexMailTest(1)=137: Browser was closed<br>]]>
